@@ -1,3 +1,2 @@
 # WebViewTestAppAnd
-
-hoge
+Android WebViewテスト用アプリ
